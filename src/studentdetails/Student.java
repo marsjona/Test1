@@ -9,7 +9,10 @@ package studentdetails;
  * @author john_m92
  */
 public class Student {
-
+    
+    private String name;
+    private int sid;
+    private int semester;
     /**
      * @return the name
      */
@@ -38,7 +41,6 @@ public class Student {
         this.sid = sid;
     }
     
-    private String name;
-    private int sid;
+
     
 }
