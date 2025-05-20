@@ -5,7 +5,7 @@
 package studentdetails;
 
 /**
- *
+ * this is the main branch
  * @author john_m92
  */
 public class StudentDetails {
